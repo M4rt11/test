@@ -8,7 +8,7 @@ print (a/b)
 
 print(b-a)
 
-print [(a/b)+(b+a)]
+print (a/b)+(b+a)
 
 
 
