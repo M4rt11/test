@@ -3,5 +3,5 @@ fonction a(){
 }
 
 fonction b(){
-	return "b"
+	return "B"
 }
