@@ -6,3 +6,7 @@ fonction a(){
 fonction b(){
 	return "B"
 }
+
+fonction c(){
+	return "B"
+}
